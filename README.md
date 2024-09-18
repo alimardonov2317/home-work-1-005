@@ -1,0 +1,1 @@
+Ushbu loyihada tablelar htmlda yozilgan.
